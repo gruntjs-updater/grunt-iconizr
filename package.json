@@ -29,7 +29,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-  	"iconizr": "~0.2.3",
+    "iconizr": "~0.2.3",
     "chalk": "~0.5.1"
   },
   "devDependencies": {
@@ -40,7 +40,7 @@
     "file": ">=0.2.2"
   },
   "peerDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin",
